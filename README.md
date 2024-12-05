@@ -1,4 +1,3 @@
-# 👋 Hi there! I'm Marcelo Morales 
 
 ![Banner](./Assets/banner.png)
 
