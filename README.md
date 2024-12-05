@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Marcelo Bazaldua  
+# 👋 Hi there! I'm Marcelo Morales 
 
 ![Banner](./assets/banner.png)
 
