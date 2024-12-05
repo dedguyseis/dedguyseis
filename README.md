@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Marcelo Morales 
 
-![Banner](./assets/banner.png)
+![Banner](./Assets/banner.png)
 
 I'm a **passionate developer** with experience in **Python and Java** and currently working on exciting projects like **Service Cancellation Prediction**.
 
