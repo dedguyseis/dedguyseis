@@ -38,10 +38,10 @@ I'm a **passionate developer** with experience in **Python and Java** and curren
 ### 📊 [INEGI Census Project](https://github.com/dedguyseis/INEGI)  
 A census management tool built using Java, MVC, and MySQL. It features CRUD operations, executive dashboards, and statistical reporting functionalities to analyze population data.
 
-### 🛒 [Sales Management System](https://github.com/your-repo)  
+### 🛒 [Sales Management System](https://github.com/macncheese-ds/sales_management)  
 A web-based application designed for small businesses, offering capabilities for tracking sales, managing inventory, and generating data-driven analytics.  
 
-### 🌍 [Customer Churn Predictor](https://github.com/your-repo)  
+### 🌍 [Customer Churn Predictor](https://github.com/macncheese-ds/customer_churn)  
 A machine learning project focused on predicting customer churn in the banking sector, optimized for F1-score and AUC-ROC metrics.  
 
 ---
