@@ -42,7 +42,10 @@ A census management tool built using Java, MVC, and MySQL. It features CRUD oper
 A web-based application designed for small businesses, offering capabilities for tracking sales, managing inventory, and generating data-driven analytics.  
 
 ### 🌍 [Customer Churn Predictor](https://github.com/macncheese-ds/customer_churn)  
-A machine learning project focused on predicting customer churn in the banking sector, optimized for F1-score and AUC-ROC metrics.  
+A machine learning project focused on predicting customer churn in the banking sector, optimized for F1-score and AUC-ROC metrics.
+
+### 📊 [Tripleten Sprint Projects](https://github.com/macncheese-ds/Tripleten)  
+All my Tripleten project from my Data Scientist Bootcamps.
 
 ---
 
