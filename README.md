@@ -20,7 +20,6 @@ I'm a **passionate developer** with experience in **Python and Java** and curren
 ### Programming Languages  
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)
 
 ### Tools and Frameworks  
 
